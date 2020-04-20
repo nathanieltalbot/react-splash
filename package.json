@@ -22,7 +22,8 @@
   "homepage": "https://github.com/rnosov/react-splash",
   "main": "./dist/index.js",
   "dependencies": {
-    "babel-runtime": "^6.11.6"
+    "babel-runtime": "^6.11.6",
+    "prop-types": "^15.7.2"
   },
   "peerDependencies": {
     "react": "^15.3.1"
